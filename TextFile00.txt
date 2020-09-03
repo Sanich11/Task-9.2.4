@@ -1,1 +1,2 @@
 Only text
+Not for numeric
